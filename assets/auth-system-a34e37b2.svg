@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Full Stack Authentication System">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#151030"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#804dee"/>
+      <stop offset="100%" stop-color="#bf61ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="460" rx="24" fill="url(#bg2)"/>
+  <rect x="36" y="36" width="648" height="388" rx="20" fill="#100d25" stroke="#804dee" stroke-opacity="0.4"/>
+  <rect x="250" y="90" width="220" height="12" rx="6" fill="url(#accent2)"/>
+  <text x="360" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Secure Auth System</text>
+  <text x="360" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#aaa6c3">JWT · bcrypt · Protected Routes</text>
+  <rect x="210" y="240" width="300" height="44" rx="12" fill="#151030"/>
+  <rect x="210" y="300" width="300" height="44" rx="12" fill="#151030"/>
+  <rect x="270" y="360" width="180" height="36" rx="18" fill="#915EFF"/>
+</svg>
