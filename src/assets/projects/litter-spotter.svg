@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Smart Litter Spotter">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#151030"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00cea8"/>
+      <stop offset="100%" stop-color="#915EFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="460" rx="24" fill="url(#bg3)"/>
+  <rect x="36" y="36" width="648" height="388" rx="20" fill="#100d25" stroke="#00cea8" stroke-opacity="0.35"/>
+  <rect x="64" y="70" width="180" height="14" rx="7" fill="url(#accent3)"/>
+  <text x="64" y="140" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Smart Litter Spotter</text>
+  <text x="64" y="176" font-family="Arial, sans-serif" font-size="16" fill="#aaa6c3">AI detection · Geo reports · Cleanup tracker</text>
+  <circle cx="560" cy="230" r="78" fill="#151030"/>
+  <circle cx="560" cy="230" r="42" fill="#915EFF" fill-opacity="0.85"/>
+  <rect x="64" y="230" width="280" height="54" rx="14" fill="#151030"/>
+  <rect x="64" y="300" width="220" height="54" rx="14" fill="#151030"/>
+  <text x="204" y="263" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#dfd9ff">Hotspot Map</text>
+  <text x="174" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#dfd9ff">Leaderboard</text>
+</svg>
